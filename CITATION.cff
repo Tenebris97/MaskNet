@@ -24,3 +24,30 @@ year: 2022
 month: 1
 day: 3
 url: "https://doi.org/10.1007/s11042-021-11654-w"
+
+preferred-citation:
+  type: article
+  authors:
+- family-names: "Peyvandi"
+  given-names: "Amirhossein"
+  orcid: "https://orcid.org/0000-0001-5973-9617"
+- family-names: "Majidi"
+  given-names: "Babak"
+  orcid: "https://orcid.org/0000-0001-6309-6407"
+- family-names: "Peyvandi"
+  given-names: "Soodeh"
+  orcid: "https://orcid.org/0000-0002-8645-661X"
+- family-names: "Patra"
+  given-names: "Jagdish C."
+  orcid: "https://orcid.org/0000-0002-6257-0469"
+- family-names: "Moshiri"
+  given-names: "Behzad"
+  orcid: "https://orcid.org/0000-0002-8390-4093"
+  title: "Location-aware hazardous litter management for smart emergency governance in urban eco-cyber-physical systems"
+  journal: Multimedia Tools and Applications
+  issn: 1573-7721
+  doi: 10.1007/s11042-021-11654-w
+  year: 2022
+  month: 1
+  day: 3
+  url: "https://doi.org/10.1007/s11042-021-11654-w"
