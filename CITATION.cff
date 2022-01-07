@@ -1,6 +1,4 @@
 cff-version: 1.2.0
-preferred-citation:
-  -type: article
 message: "If you use this dataset, please cite it as below."
 authors:
 - family-names: "Peyvandi"
@@ -26,3 +24,5 @@ year: 2022
 month: 1
 day: 3
 url: "https://doi.org/10.1007/s11042-021-11654-w"
+preferred-citation:
+  type: article
