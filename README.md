@@ -44,5 +44,6 @@ If you find the dataset useful in your research, please consider citing:
 ```
 
 # Alternative Links
+[![Kaggle](https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/tenebris97/masknet)
 [![Mega.nz](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/01_mega_logo.svg/320px-01_mega_logo.svg.png)](https://mega.nz/folder/eNAzVKKC#82yjlDT49e9HM3WNDUUk5A)
 [![Google Drive](https://fonts.gstatic.com/s/i/productlogos/drive_2020q4/v8/web-64dp/logo_drive_2020q4_color_2x_web_64dp.png)](https://drive.google.com/file/d/188erMckK3l9Cpw1UMWbXXXexqlKHvfv3/view)
