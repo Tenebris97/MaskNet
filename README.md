@@ -11,6 +11,7 @@
 - Can be utilized for face mask detection in a variety of scenarios
 - For more information, please refer to the [paper](https://link.springer.com/article/10.1007%2Fs11042-021-11654-w)
 - The photos come in an original size of **3024 x 4032** pixels, but resized to **540 x 720** pixels
+- File Format: jpg
 - Size: **~200MB**
 - **The annotations are missing. I might add them in a later date. But you can use [LabelImg](https://github.com/tzutalin/labelImg) for this task, and contributions are welcomed!**
 
